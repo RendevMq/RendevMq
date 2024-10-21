@@ -2,7 +2,17 @@
 
 ## Sobre mí 🚀
 
+🔭 **Desarrollador Full Stack.**  
+Desarrollador con experiencia en Java y Spring Boot para backend, incluyendo la implementación de APIs RESTful y la gestión de seguridad con Spring Security. Además, tengo conocimientos en el stack MERN, Angular, y en el diseño de arquitecturas de software escalables.
 
+📚 **Motivación + Compromiso + Tecnología + Innovación + Trabajo en equipo + Optimismo.**  
+Este es el lema que guía mi vida profesional. Me dedico a construir soluciones eficientes y escalables, manteniendo siempre las mejores prácticas de desarrollo.
+
+🌱 **Entusiasta del código limpio y la arquitectura de software.**  
+Apasionado por implementar prácticas de código limpio y estructuras sólidas para desarrollar software eficiente y fácil de mantener.
+
+💡 **En constante aprendizaje.**  
+Aprovecho mi tiempo libre para aprender sobre las últimas tendencias tecnológicas y mejorar mis habilidades lógicas y algorítmicas.
 
 
 ## Stack Tecnológico 🛠
