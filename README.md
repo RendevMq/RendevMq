@@ -1,4 +1,4 @@
-# ¡Hola, soy Renato Mallqui! 👋
+# ¡Hola, soy Renato! 👋
 
 ## Sobre mí 🚀
 
