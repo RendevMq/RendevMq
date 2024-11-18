@@ -71,7 +71,7 @@ Aprovecho mi tiempo libre para aprender sobre las últimas tendencias tecnológi
   </tr>
 </table>
 
-### 🌐 Desarrollo Frontend (MERN):
+### 🌐 Desarrollo Frontend:
 
 <table align="center" style="border-collapse: collapse; width: 80%;">
   <tr>
