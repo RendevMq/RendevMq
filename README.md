@@ -2,8 +2,8 @@
 
 ## Sobre mí 🚀
 
-🔭 **Desarrollador Full Stack.**  
-Desarrollador con experiencia en Java y Spring Boot para backend, incluyendo la implementación de APIs RESTful y la gestión de seguridad con Spring Security. Además, tengo conocimientos en el stack MERN, Angular, y en el diseño de arquitecturas de software escalables.
+🔭 **Desarrollador Móvil.**  
+Desarrollador con experiencia en Kotlin y Java para el desarrollo de aplicaciones móviles Android. Me especializo en crear soluciones móviles robustas y escalables, aplicando principios como MVVM y Clean Architecture. También tengo experiencia trabajando con Flutter para desarrollo multiplataforma, además de Firebase y tecnologías de backend como Spring Boot para crear aplicaciones completas.
 
 📚 **Motivación + Compromiso + Tecnología + Innovación + Trabajo en equipo + Optimismo.**  
 Este es el lema que guía mi vida profesional. Me dedico a construir soluciones eficientes y escalables, manteniendo siempre las mejores prácticas de desarrollo.
@@ -16,6 +16,33 @@ Aprovecho mi tiempo libre para aprender sobre las últimas tendencias tecnológi
 
 
 ## Stack Tecnológico 🛠
+
+### 📱 Desarrollo Móvil:
+
+<table align="center" style="border-collapse: collapse; width: 80%;">
+  <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>Frameworks</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4A8DFD?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>Lenguajes</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+    </td>
+  </tr>
+</table>
+
+
 
 ### 💻 Desarrollo Backend:
 
@@ -71,6 +98,48 @@ Aprovecho mi tiempo libre para aprender sobre las últimas tendencias tecnológi
   </tr>
 </table>
 
+
+
+### ☁ DevOps y Herramientas:
+
+<table align="center" style="border-collapse: collapse; width: 80%;">
+  <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>Contenedores</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+<!--   <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>CI/CD</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    </td>
+  </tr> -->
+  <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>Nube</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; font-weight: bold;">
+      <strong>Versionamiento</strong>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+</table>
+
+
 ### 🌐 Desarrollo Frontend:
 
 <table align="center" style="border-collapse: collapse; width: 80%;">
@@ -96,66 +165,6 @@ Aprovecho mi tiempo libre para aprender sobre las últimas tendencias tecnológi
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
       <img src="https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API">
       <img src="https://img.shields.io/badge/Zustand-007ACC?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
-    </td>
-  </tr>
-</table>
-
-### 📱 Desarrollo Móvil:
-
-<table align="center" style="border-collapse: collapse; width: 80%;">
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>Frameworks</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>Lenguajes</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-    </td>
-  </tr>
-</table>
-
-### ☁ DevOps y Herramientas:
-
-<table align="center" style="border-collapse: collapse; width: 80%;">
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>Contenedores</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>CI/CD</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>Nube</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <strong>Versionamiento</strong>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
   </tr>
 </table>
